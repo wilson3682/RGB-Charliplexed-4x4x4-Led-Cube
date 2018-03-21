@@ -23,10 +23,14 @@ More about charlieplexing:
 http://en.wikipedia.org/wiki/Charliep...
 
 Good information from:
+
 https://www.instructables.com/id/Char...
+
 https://www.instructables.com/id/Hack...
 
 All 3 parts of RGB cube video:
 https://youtu.be/n_CZL5dw-pY
+
 https://youtu.be/zEIUTQOe7L8
+
 https://youtu.be/hxSoQ93-bbg
