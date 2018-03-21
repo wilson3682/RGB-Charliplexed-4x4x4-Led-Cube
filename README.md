@@ -4,7 +4,7 @@
 
 CharlieCube with Arduino Nano
 
-I Changed the following code in cubeplex.h because the original code was not looping through the effects :
+I Changed the following code in cubeplex.h line 65, because the original code was not looping through the effects :
 
 bool continuePattern = false;
 
